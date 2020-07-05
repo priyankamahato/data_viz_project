@@ -1,1 +1,2 @@
 # data_viz_project
+Theme and purpose of the project: 1)Using this project I wanted to show the major iron ore resource sites in India and their properties according to different states. 2)The map has multiple layers and views in the other view I have divides all the countries in three categories according to their population 3)Amother important puropse of the project was learning to use github and publish my project and code using github pages
